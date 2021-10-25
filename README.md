@@ -1,2 +1,2 @@
 # HTML
-Html bootcamp appleseeds content
+HTML bootcamp appleseeds content
